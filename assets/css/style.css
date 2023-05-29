@@ -51,7 +51,7 @@ p {
     position: relative;
 }
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,14 +70,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     align-items: center;
 }
 
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 40px;
     clear: both;
@@ -132,7 +132,7 @@ p {
     font-size: 36px;
 }
 
-.footer {
+#footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
