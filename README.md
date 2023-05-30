@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Reworked CSS code to make it more efficient. Consolidated CSS selectors and properties, organized them to follow the semantic structure of the HTML elements.
+Reworked CSS code to make it more efficient. Consolidated CSS selectors and properties, organized them to follow the semantic structure of the HTML elements. Realignment of content boxes as well as ensure images box sizes are the same. 
 
 
 ## Credits
