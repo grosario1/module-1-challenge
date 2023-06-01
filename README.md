@@ -6,6 +6,18 @@ A marketing agency has a requirement to refactor one of their existing sites to 
 
 This repo contains existing code that has been refactored, improved without changing what it does to meet a certain set of standards.
 
+What was completed:
+
+- Removed and/or restructure redundant elements of code
+- fixed broken link
+- Restructured code to follow logical structure of styling and positioning 
+- Restructure code to follow semantic HTML
+- Added ALT attribute to images 
+- Renamed the title of the site to be more descriptive. 
+
+You can find code repo [here.](https://github.com/grosario1/module-1-challenge) 
+Link to deployed live URL [here.](https://grosario1.github.io/module-1-challenge/) 
+
 ## Installation
 
 N/A
