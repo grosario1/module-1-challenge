@@ -15,7 +15,7 @@ What was completed:
 - Added ALT attribute to images 
 - Renamed the title of the site to be more descriptive. 
 
-You can find code repo [here.](https://github.com/grosario1/module-1-challenge) 
+You can find code repo [here.](https://github.com/grosario1/module-1-challenge) \
 Link to deployed live URL [here.](https://grosario1.github.io/module-1-challenge/) 
 
 ## Installation
