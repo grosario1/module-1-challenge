@@ -28,8 +28,7 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-gi
 
 Reworked CSS code to make it more efficient. Consolidated CSS selectors and properties, organized them to follow the semantic structure of the HTML elements. Realignment of content boxes as well as ensure images box sizes are the same. 
 
-
-
+![Alt text]("../../assets/images/horiseon-site-mod-1-challenge.png)
 
 
 You can find code repo [here.](https://github.com/grosario1/module-1-challenge) \
